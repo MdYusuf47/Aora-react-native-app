@@ -5,7 +5,7 @@ import { Slot } from 'expo-router'
 const RootLayout = () => {
   return (
     <>
-        <Text>Header</Text>
+        <Text>Header 33.30</Text>
         <Slot/>
         <Text>Footer</Text>
     </>
